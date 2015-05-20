@@ -2,6 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb60a56e-2c76-4368-bdca-542902b97186" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Белоруссия" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Австралия" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Албания" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Аргентина" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Бразилия" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Германия" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Грузия" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Дания" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Египет" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Ирак" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Испания" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Италия" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Йемен" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Казахстан" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Канада" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Китай" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Марокко" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Мексика" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Норвегия" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Пакистан" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Польша" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Россия" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Румыния" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/США" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Турция" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Франция" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Черногория" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Швеция" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/ЮАР" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/Япония" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CountryCatalog.iws" />
@@ -30,7 +60,7 @@
       <file leaf-file-name="MainWindow.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/miet35/MainWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23671497" vertical-offset="637" max-vertical-offset="1290">
+            <state vertical-scroll-proportion="0.18554217" vertical-offset="658" max-vertical-offset="1290">
               <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
               <folding />
             </state>
@@ -79,8 +109,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -99,6 +129,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lab_4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lab_4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -112,10 +156,11 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ru.miet35" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MainWindow">
@@ -327,8 +372,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32826748" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32674772" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -363,7 +408,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ru/miet35/MainWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
+        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1320">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/США">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -379,7 +432,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/miet35/MainWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23671497" vertical-offset="637" max-vertical-offset="1290">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/CountryCatalog/ru/miet35/countries/США">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="632">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/miet35/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18554217" vertical-offset="658" max-vertical-offset="1290">
           <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
           <folding />
         </state>
