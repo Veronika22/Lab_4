@@ -7,12 +7,17 @@ import javax.swing.event.DocumentListener;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 import java.awt.*;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 
 public class MainWindow extends JFrame {
 
     private JList mList;
     private JTextArea mTextArea;
     private JTextField mSearchField;
+    private Finder mFinder;
 
     public MainWindow() {
         setTitle("Справочник по странам");
@@ -23,9 +28,9 @@ public class MainWindow extends JFrame {
 
         JPanel descriptionPanel = new JPanel();
         descriptionPanel.setLayout(new BorderLayout());
+        mFinder = new Finder("out/production/CountryCatalog/ru/miet35/countries");
 
-        //TODO здесь должен быть метод, который получает названия стран по названию файлов в директории
-        String[] data = {"example1", "example2", "example3"};
+        String[] data = mFinder.makeCountryList();
 
         mList = new JList(data); //data has type Object[]
         mList.setSelectionMode(ListSelectionModel.SINGLE_INTERVAL_SELECTION);
@@ -39,7 +44,7 @@ public class MainWindow extends JFrame {
             public void valueChanged(ListSelectionEvent evt) {
                 if (evt.getValueIsAdjusting() || mList.getSelectedValue() == null)
                     return;
-                //TODO здесь поиск описания страны
+                mTextArea.setText(mFinder.getDescription(mList.getSelectedValue().toString()));
             }
         });
 
@@ -61,7 +66,8 @@ public class MainWindow extends JFrame {
             }
 
             private void searchCountries() {
-                //TODO
+                String[] data = mFinder.makeCountryList(mSearchField.getText());
+                mList.setListData(data);
             }
         });
 
